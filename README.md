@@ -13,4 +13,7 @@ Scikit Learn (Naive Bayes section with MulitnomialNB function) (Version 1.6.1)
 Scikit Learn (Metrics section with accuracy_score function) (Version 1.6.1)
 
 ## Dataset and Source Code
-The dataset and source code was provided by Professor Brahma. I reused his code [specifically the make_dictionary and extract_features functions to prepare the training/test data for the Gaussian NB model. I added comments and double checked the accurary of the model. The source of this data is unknown and not necessarily publically available. 
+The dataset and source code was provided by Professor Brahma. I reused his code [specifically the make_dictionary and extract_features functions to prepare the training/test data for the Gaussian NB model. I added comments and double checked the accurary of the model. The source of this data is not given and not necessarily publically available. 
+
+## Installation
+Open the .ipynb file in your chosen environment, ensure that the data is in the same repository/working directory and then run the code.
